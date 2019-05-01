@@ -32,6 +32,10 @@ struct line_args_t {
 	char* right; // will be the right part of a valid line (after the '=').
 };
 
+// This is a psuedo-function
+int myFoo(){
+	printf("bl3n rabbak\n");
+}
 
 //Helper function: It changes 'msg' to the appropriate MSG:
 void whatIsMissing(SPConfig config, SP_CONFIG_MSG* msg) {
