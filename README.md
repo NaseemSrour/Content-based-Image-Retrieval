@@ -1,5 +1,5 @@
-# Project in C
-Content-based Image Retrieval.
+# Content-based Image Retrieval
+Project in C.
 
 Project in the course 'Software Project in C' at Tel Aviv University.
 
